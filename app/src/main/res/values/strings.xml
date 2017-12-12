@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Secret Message Service</string>
+    <string name="title_activity_en1">en1</string>
+    <string-array name="algorithm_array">
+        <item>Caesar Cipher</item>
+        <item>Monoalphabetic</item>
+        <item>Play Fair</item>
+        <item>Polyalphabetic</item>
+        <item>Transposition</item>
+    </string-array>
+</resources>
